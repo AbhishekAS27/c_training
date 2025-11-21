@@ -1,3 +1,4 @@
+//write  a c program with a function and vardic aruments
 #include<stdio.h>
 #include<stdarg.h>
 void result (int count, ...)
